@@ -42,7 +42,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/seohyung-hong# your LinkedIn user name", "_blank");
+          window.open("https://www.linkedin.com/in/seohyung-hong-619664354", "_blank");
         },
       },{
       id: 'light-theme',
