@@ -143,14 +143,14 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
+  # books:
+  #   output: true
   news:
     defaults:
       layout: post
     output: true
-  projects:
-    output: true
+  # projects:
+  #   output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -198,6 +198,8 @@ exclude:
   - _posts/
   - _pages/repositories.md
   - _pages/teaching.md
+  - _pages/books.md
+  - _pages/dropdown.md
   
 
 keep_files:
