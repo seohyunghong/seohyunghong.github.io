@@ -35,12 +35,16 @@
       institution: Coshocton Highschool, Ohio, USA
       year: "2015.08-2016.07"
 
+- title: Experience
+  anchor: experience
+  type: time_table
+  contents:
     - title: AI Developer, Healthpedia Inc.
       institution: Dongguk-Seoul Hospital
       year: "2025.08–PRESENT"
       description:
-        - Develop an internal RAG-based AI system for efficient knowledge retrieval using LangChain and FAISS.
-        - Currently developing a multilingual RAG agent for dermatology and plastic surgery clinics, designed for commercialization and real-world hospital deployment.
+        - Develop an internal RAG-based AI system for efficient knowledge retrieval and medical Q&A automation using LangChain and FAISS.
+        - Design and deploy a multilingual RAG agent tailored for dermatology and plastic surgery clinics, enabling seamless consultations with international patients.
 
     - title: Intern, Visual Intelligence Lab (VIVA Lab)
       institution: University of Virginia
