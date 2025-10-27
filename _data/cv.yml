@@ -40,7 +40,7 @@
   type: time_table
   contents:
     - title: AI Developer, Healthpedia Inc.
-      institution: Dongguk-Seoul Hospital
+      institution: Healthpedia Inc., Dongguk University Seoul Hospital
       year: "2025.08–PRESENT"
       description:
         - Develop an internal RAG-based AI system for efficient knowledge retrieval and medical Q&A automation using LangChain and FAISS.
