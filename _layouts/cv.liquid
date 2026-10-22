@@ -28,7 +28,8 @@ layout: default
 
     <article>
       <div class="cv">
-        {% for entry in site.data.cv %}
+        {% assign cv_source = page.cv_data | default: 'cv' %}
+        {% for entry in site.data[cv_source] %}
           <a class="anchor" id="{{ entry.title }}"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>

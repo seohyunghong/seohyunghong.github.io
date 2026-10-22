@@ -1,0 +1,105 @@
+- title: 기본 정보
+  anchor: general-information
+  type: map
+  contents:
+    - name: 성명
+      value: 홍서형 (Seohyung Hong)
+    - name: 생년월일
+      value: 2000년 4월 21일
+
+- title: 학력
+  anchor: education
+  type: time_table
+  contents:
+    - title: 석박사통합과정
+      institution: 서울대학교 의과대학
+      year: "2024.12-PRESENT"
+      description:
+        - title: 전공
+          contents: 의과학과
+        - title: 연구분야
+          contents: AI를 활용한 전사체학, CV 기반 병리 이미지 세그멘테이션
+
+    - title: 학사
+      institution: 대구경북과학기술원(DGIST), 대구, 대한민국
+      year: "2020.03-2025.02"
+      description:
+        - title: 전공
+          contents: 컴퓨터공학(주전공) & 생명과학(복수전공)
+
+    - title: 고등학교
+      institution: 청원고등학교, 오창, 대한민국
+      year: "2018.03-2020.02"
+
+    - title: 고등학교 교환학생
+      institution: Coshocton Highschool, 오하이오주, 미국
+      year: "2015.08-2016.07"
+
+- title: 경력
+  anchor: experience
+  type: time_table
+  contents:
+    - title: AI 개발자, Vezel
+      institution: Vezel Law Firm
+      year: "2026.08-PRESENT"
+      description:
+        - 기술 특허 변리사와 협업하여 매크로, 외부 프로그램, 내부 시스템, 오픈소스 AI를 통합한 특허 업무 자동화 도구 개발.
+        - 반복적인 특허 업무를 자동화된 워크플로우로 전환하여 업무 효율성을 크게 향상.
+
+    - title: AI 개발자, Safesoft
+      institution: Safesoft Inc.
+      year: "2026.04-PRESENT"
+      description:
+        - 실제 임상시험 문서의 불규칙한 형식의 데이터와 표를 통합된 구조화 CRF로 변환하는 AI 파이프라인 개발.
+        - 데이터 처리 시간을 수개월에서 수시간으로 단축시켜 회사의 데이터 관리 비용 절감.
+
+    - title: AI 개발자, Healthpedia Inc.
+      institution: Healthpedia Inc., 동국대학교 서울병원
+      year: "2025.08-PRESENT"
+      description:
+        - LangChain과 FAISS를 활용해 효율적인 지식 검색과 의료 Q&A 자동화를 위한 사내 RAG 기반 AI 시스템 개발.
+        - 피부과 및 성형외과 클리닉에 특화된 다국어 RAG 에이전트를 설계·구축하여 해외 환자와의 원활한 상담 지원.
+
+    - title: 인턴, Visual Intelligence Lab (VIVA Lab)
+      institution: University of Virginia
+      year: "2024.06-2024.08"
+      description:
+        - 신체 랜드마크를 활용해 발레 동작을 분석하는 머신러닝 프로젝트 주도.
+        - 공연 평가를 위한 범용 채점 시스템 개발.
+
+    - title: 인턴, Medical Image & Signal Processing Lab
+      institution: DGIST
+      year: "2023.06-2024.06"
+      description:
+        - SAM, ResUnet34, PCM 모델을 변형하여 고도화된 세포 분할 모델 개발.
+        - 약지도학습(weakly supervised) 환경에서 SAM Adapter와 HQ-SAM을 파인튜닝하여 암세포 분할 정확도 향상.
+
+    - title: 인턴, Spidercore Inc., KAIST 교원창업기업
+      institution: KAIST
+      year: "2022.12-2023.02"
+      description:
+        - BERT와 TensorFlow를 활용해 RNA 치료제 예측을 위한 NLP 모델 구축.
+        - 기존 구현 대비 모델 정확도를 크게 향상.
+
+    - title: 인턴, Surgical Robotics & AR Research Center
+      institution: DGIST
+      year: "2022.08-2022.12"
+      description:
+        - Hololens 2와 Unity를 활용한 3D AR 기반 수술 환경 개발.
+
+- title: 수상 및 장학
+  anchor: honors
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - 버지니아대학교(UVA) 인턴십 장학금
+    - year: 2022
+      items:
+        - UCLA 계절학기 장학금
+    - year: 2020
+      items:
+        - DGIST 전액 장학금
+    - year: 2016
+      items:
+        - Coshocton 고등학교 전액 장학금

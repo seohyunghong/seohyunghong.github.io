@@ -117,6 +117,18 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% if page.lang_toggle %}
+            <!-- Language toggle (한/영 전환) -->
+            <li class="nav-item">
+              <a class="nav-link" href="{{ page.lang_toggle | relative_url }}" title="Switch language">
+                {% if page.lang == 'ko' %}
+                  EN
+                {% else %}
+                  KO
+                {% endif %}
+              </a>
+            </li>
+          {% endif %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
