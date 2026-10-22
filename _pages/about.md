@@ -13,7 +13,7 @@ profile:
   more_info: >
     <p>Seohyung Hong</p>
     <p>서울대학교 의과대학 의과학과</p>
-    <p>석박통합과정</p>
+    <p>석사과정</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ announcements:
 
 Hello!
 
-I am a `Medical AI Researcher` and an `MS-Ph.D. Candidate` at **Seoul National University College of Medicine**. My academic foundation is rooted in **Computer Science** and **Biology**, as I pursued a dual major Bachelor's degree at DGIST.
+I am a `Medical AI Researcher` and an `MS Candidate` at **Seoul National University College of Medicine**. My academic foundation is rooted in **Computer Science** and **Biology**, as I pursued a dual major Bachelor's degree at DGIST.
 
 My current research interests rely on `VLM`, cell image `segmentation` using deep learning, and `Multimodal AI`. My ultimate goal is to enhance the efficiency of medical data analysis and facilitate its commercialization.
 With hands-on experience in AI-driven biomedical image processing and computational biology, I have worked on fine-tuning cutting-edge models.
